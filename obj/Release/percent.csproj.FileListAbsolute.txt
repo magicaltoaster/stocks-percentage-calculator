@@ -1,0 +1,9 @@
+C:\Users\allde\source\repos\percent\bin\Release\percent.exe.config
+C:\Users\allde\source\repos\percent\bin\Release\percent.exe
+C:\Users\allde\source\repos\percent\bin\Release\percent.pdb
+C:\Users\allde\source\repos\percent\obj\Release\percent.Form1.resources
+C:\Users\allde\source\repos\percent\obj\Release\percent.Properties.Resources.resources
+C:\Users\allde\source\repos\percent\obj\Release\percent.csproj.GenerateResource.cache
+C:\Users\allde\source\repos\percent\obj\Release\percent.csproj.CoreCompileInputs.cache
+C:\Users\allde\source\repos\percent\obj\Release\percent.exe
+C:\Users\allde\source\repos\percent\obj\Release\percent.pdb
